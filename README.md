@@ -31,32 +31,6 @@ Seeking a **Work Integrated Learning opportunity** to leverage academic knowledg
 
 ---
 
-## 🛠 Projects
-
-### Enrollment System App  
-**Role:** Team Leader, Server & Database Developer  
-- Developed an enrollment system entirely in **Java**, managing server logic and database integration.  
-- Oversaw team workflow and guided client-server communication implementation.  
-- Delivered a stable and efficient application for student registration.
-
----
-
-### CPUT Clinic Booking System  
-**Role:** Database Developer, Full Stack Developer  
-- Designed and optimized database to support appointment scheduling.  
-- Assisted with backend simulation to validate workflows.  
-- Contributed to frontend integration, enabling a seamless booking interface for patients.
-
----
-
-### SafeRide  
-**Role:** Team Leader, Full Stack Developer  
-- Built a full-stack ride-sharing backend with secure authentication and booking features.  
-- Defined Git branching strategies and managed integrations.  
-- Conducted thorough code reviews to maintain quality, consistency, and performance.
-
----
-
 ## 📌 References
 
 - **Mr Kruben Naidoo** — Senior Lecturer  
