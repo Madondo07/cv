@@ -31,6 +31,18 @@ Seeking a **Work Integrated Learning opportunity** to leverage academic knowledg
 
 ---
 
+## 📂 Projects
+- **Enrollment System**  
+  Client-server application for managing student course enrollments.
+
+- **Clinic Booking System**  
+  Web-based system for patient management, appointment scheduling, and queue management.
+
+- **SafeRide**  
+  Ride-sharing application focusing on secure authentication, booking, and ride management.
+
+---
+
 ## 📌 References
 
 - **Mr Kruben Naidoo** — Senior Lecturer  
@@ -38,3 +50,11 @@ Seeking a **Work Integrated Learning opportunity** to leverage academic knowledg
 
 - **Mrs Makinta** — High School Teacher  
   📱 072 561 0582
+---
+  ## 🎥 Project Demo
+
+<video width="600" controls>
+  <source src="Mock Interview Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
