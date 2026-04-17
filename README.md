@@ -43,6 +43,31 @@ Seeking a **Work Integrated Learning opportunity** to leverage academic knowledg
 
 ---
 
+## ✨ Reflections (STAR Method)
+
+**📃Markdown Coding**  
+    **Situation:** Documenting project work in Markdown.  
+    **Task:** Create clean, readable documentation.  
+    **Action:** Learned and applied line/divider syntax.  
+    **Result:** Improved readability and structure.  
+    **Reflection:** Discovering how to set up lines was new and interesting, showing me how formatting elevates documentation.
+
+**🎥 Mock Interview Video**  
+    **Situation:** Required to record and upload a mock interview.  
+    **Task:** Simulate a real interview and share it online.  
+    **Action:** Prepared responses, recorded video, overcame upload size limits.  
+    **Result:** Video displayed with full playback controls.  
+    **Reflection:** Seeing the controllers made the video interactive; the challenge of file limits taught me patience and problem-solving.
+
+**💻 GitHub Pages**  
+    **Situation:** Needed to publish my portfolio online.  
+    **Task:** Make projects accessible in a professional format.  
+    **Action:** Set up GitHub Pages, linked repos, customized layout.  
+    **Result:** Portfolio became publicly visible and professional.  
+    **Reflection:** Although I knew about GitHub Pages, I didn’t expect it to be formally required. This reinforced the importance of presentation in industry-standard tools.
+
+---
+
 ## 📌 References
 
 - **Mr Kruben Naidoo** — Senior Lecturer  
